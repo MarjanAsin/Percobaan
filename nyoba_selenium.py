@@ -74,4 +74,4 @@ print("Judul halaman:", driver.title) menampilkan judul tab browser yang sudah b
 Menutup Browser
 Akhirnya, driver.quit() menutup browser dan membersihkan sesi agar tidak ada proses Chrome yang berjalan di belakang layar.
 """
-
+bacod
